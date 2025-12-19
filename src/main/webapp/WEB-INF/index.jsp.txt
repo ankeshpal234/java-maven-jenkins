@@ -1,0 +1,6 @@
+<!-- src/main/webapp/index.jsp -->
+<html>
+<body>
+    <h1>Hello from Java WAR!</h1>
+</body>
+</html>
